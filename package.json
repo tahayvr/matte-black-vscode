@@ -1,6 +1,6 @@
 {
-  "name": "matte-black",
-  "displayName": "Matte Black",
+  "name": "matteblack",
+  "displayName": "MatteBlack",
   "description": "A low distraction dark theme",
   "version": "0.0.1",
   "engines": {
