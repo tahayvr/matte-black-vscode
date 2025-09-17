@@ -1,6 +1,7 @@
-# Matte Black Theme
+<img src="assets/icon.png" style="display: block; margin: 0 auto;" alt="Matte Black Theme Icon" />
 
-A low distraction dark theme for Visual Studio Code.
+<h1 style="text-align: center;">Matte Black Theme</h1>
+<p style="text-align: center;">A low distraction dark theme for VSCode.</p>
 
 Matte Black is a crisp, low-distraction dark theme for VSCode. It’s built from a black base with warm, analogous accents for focus.
 
