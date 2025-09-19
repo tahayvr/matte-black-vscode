@@ -2,7 +2,7 @@
   "name": "matteblack",
   "displayName": "MatteBlack",
   "description": "A low distraction dark theme.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "engines": {
     "vscode": "^1.103.0"
