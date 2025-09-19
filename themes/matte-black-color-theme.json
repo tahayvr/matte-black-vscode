@@ -24,6 +24,13 @@
     "editor.wordHighlightStrongBackground": "#FBBF2417",
     "editor.findMatchBackground": "#F59E0B33",
     "editor.findMatchHighlightBackground": "#F59E0B33",
+    // Diff editor backgrounds (prefer fills over dotted borders)
+    "diffEditor.insertedTextBackground": "#129B7033",
+    "diffEditor.removedTextBackground": "#B91C1C33",
+    "diffEditor.insertedTextBorder": "#00000000",
+    "diffEditor.removedTextBorder": "#00000000",
+    "diffEditor.insertedLineBackground": "#129B701A",
+    "diffEditor.removedLineBackground": "#B91C1C1A",
     "editorBracketMatch.background": "#F59E0B17",
     "editorBracketMatch.border": "#F59E0B",
     "editorGutter.background": "#121212",
