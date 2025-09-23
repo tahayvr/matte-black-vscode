@@ -244,13 +244,13 @@
         "constant.language.true",
         "constant.language.false"
       ],
-      "settings": { "foreground": "#B91C1C" }
+      "settings": { "foreground": "#862020" }
     },
 
     // Variables
     {
       "scope": ["variable", "variable.other.readwrite"],
-      "settings": { "foreground": "#9B1313" }
+      "settings": { "foreground": "#862020" }
     },
     {
       "scope": [
@@ -302,7 +302,7 @@
     // Functions (decl vs call)
     {
       "scope": ["entity.name.function", "entity.name.function.constructor"],
-      "settings": { "foreground": "#B91C1C" }
+      "settings": { "foreground": "#277D46" }
     },
     {
       "scope": [
@@ -313,7 +313,7 @@
         "entity.name.function.method",
         "variable.function"
       ],
-      "settings": { "foreground": "#F59E0B" }
+      "settings": { "foreground": "#277D46" }
     },
 
     // Types & classes
