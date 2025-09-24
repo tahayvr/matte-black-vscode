@@ -244,13 +244,13 @@
         "constant.language.true",
         "constant.language.false"
       ],
-      "settings": { "foreground": "#862020" }
+      "settings": { "foreground": "#10B981" }
     },
 
     // Variables
     {
       "scope": ["variable", "variable.other.readwrite"],
-      "settings": { "foreground": "#862020" }
+      "settings": { "foreground": "#D97706" }
     },
     {
       "scope": [
@@ -258,7 +258,7 @@
         "variable.language.this",
         "variable.builtin"
       ],
-      "settings": { "foreground": "#F87171" }
+      "settings": { "foreground": "#3B82F6" }
     },
     {
       "scope": "variable.parameter",
@@ -282,7 +282,7 @@
     // Keywords & operators
     {
       "scope": ["keyword", "keyword.control", "keyword.type", "storage.type"],
-      "settings": { "foreground": "#9B1313" }
+      "settings": { "foreground": "#059669" }
     },
     {
       "scope": ["keyword.operator", "operator"],
@@ -302,7 +302,7 @@
     // Functions (decl vs call)
     {
       "scope": ["entity.name.function", "entity.name.function.constructor"],
-      "settings": { "foreground": "#277D46" }
+      "settings": { "foreground": "#DC2626" }
     },
     {
       "scope": [
@@ -313,7 +313,7 @@
         "entity.name.function.method",
         "variable.function"
       ],
-      "settings": { "foreground": "#277D46" }
+      "settings": { "foreground": "#F59E0B" }
     },
 
     // Types & classes
@@ -348,11 +348,11 @@
     // HTML/XML tags & attributes
     {
       "scope": ["entity.name.tag", "tag"],
-      "settings": { "foreground": "#9B1313" }
+      "settings": { "foreground": "#059669" }
     },
     {
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#9B1313", "fontStyle": "italic" }
+      "settings": { "foreground": "#D97706", "fontStyle": "italic" }
     },
     {
       "name": "Tag delimiters",
@@ -372,17 +372,17 @@
     },
     {
       "scope": ["punctuation.special", "punctuation.special.symbol"],
-      "settings": { "foreground": "#F87171" }
+      "settings": { "foreground": "#3B82F6" }
     },
 
     // Diff/SCM
     {
       "scope": "markup.inserted",
-      "settings": { "foreground": "#EFBF04" }
+      "settings": { "foreground": "#10B981" }
     },
     {
       "scope": "markup.deleted",
-      "settings": { "foreground": "#B91C1C" }
+      "settings": { "foreground": "#DC2626" }
     },
     {
       "scope": "markup.changed",
@@ -392,7 +392,7 @@
     // Markdown / text
     {
       "scope": "markup.heading",
-      "settings": { "foreground": "#801a1a", "fontStyle": "bold" }
+      "settings": { "foreground": "#D97706", "fontStyle": "bold" }
     },
     {
       "scope": ["markup.underline.link", "string.other.link"],
@@ -406,6 +406,6 @@
     // General read-only variables (includes imports and const)
     "variable.readonly": "#EFBF04",
     // let/var declarations (non-readonly)
-    "variable.declaration": "#F59E0B"
+    "variable.declaration": "#D97706"
   }
 }
