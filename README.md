@@ -4,13 +4,15 @@
   <p>A low distraction dark theme for VSCode.</p>
 </div>
 
-Matte Black is a crisp, low-distraction dark theme for VSCode.
-
 ![Matte Black Theme Preview](assets/screenshot-1.png)
 
 ## Installation
 
 [Matte Black on VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=TahaYVR.matteblack)
+
+### Matte Black for Other Platforms
+
+[matteblacktheme.com](https://matteblacktheme.com)
 
 ## License
 
