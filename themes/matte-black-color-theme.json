@@ -159,6 +159,10 @@
     "gitDecoration.ignoredResourceForeground": "#8A8A8D",
     "gitDecoration.conflictingResourceForeground": "#D97706",
 
+    // Notebook / Jupyter
+    "notebook.outputContainerBackgroundColor": "#121212",
+    "notebook.outputContainerBorderColor": "#333333",
+
     // Terminal
     "terminal.background": "#121212",
     "terminal.foreground": "#eaeaea",
