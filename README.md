@@ -10,7 +10,9 @@
 
 [Matte Black on VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=TahaYVR.matteblack)
 
-### Matte Black for Other Platforms
+[Matte Black in Open VSX](https://open-vsx.org/extension/TahaYVR/matteblack)
+
+## Matte Black for Other Platforms
 
 [matteblacktheme.com](https://matteblacktheme.com)
 
