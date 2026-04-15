@@ -112,7 +112,9 @@
     "panelSection.border": "#333333",
     "panelSectionHeader.border": "#333333",
     // Lists
-    "list.focusBackground": "#262626",
+    "list.focusBackground": "#2e2e2e",
+    "quickInputList.focusBackground": "#F59E0B4d",
+    "quickInputList.focusForeground": "#ffffff",
     "list.activeSelectionBackground": "#262626",
     "list.inactiveSelectionBackground": "#262626",
     "list.activeSelectionForeground": "#eaeaea",
