@@ -109,6 +109,8 @@
     "editorSuggestWidget.foreground": "#eaeaea",
     "titleBar.border": "#333333",
     "editorSuggestWidget.selectedBackground": "#262626",
+    "editorSuggestWidget.selectedForeground": "#eaeaea",
+    "editorSuggestWidget.selectedIconForeground": "#eaeaea",
     "panelSection.border": "#333333",
     "panelSectionHeader.border": "#333333",
     // Lists
